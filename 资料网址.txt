@@ -1,0 +1,128 @@
+~)c. 当前任务 h1. 机器学习材料
+https://github.com/jobbole/awesome-machine-learning-cn
+~)c. 当前任务 h1. 工作
+~)c. 当前任务 h1. 工作 h2. 神经注意力
+~)c. 当前任务 h1. 工作 h2. 翻译
+http://money.163.com/16/0928/18/C22PEPPB002580S6.html
+# 视频
+https://www.youtube.com/watch?reload=9&v=qGlmW2n4s1w
+# github 翻译项目
+https://www.tensorflow.org/tutorials/seq2seq
+git clone https://github.com/tensorflow/nmt.git
+
+~)c. 当前任务 h1. 工作 h2. 主题模型
+~)c. 当前任务 h1. 工作 h2. 推荐系统
+
+~)c. 当前任务 h1. 工作 h2. 分类
+
+# 情绪分析网站api
+http://help.sentiment140.com/api
+curl -d "{'data': [{'text': 'I love Titanic.'}]}" http://www.sentiment140.com/api/bulkClassifyJson
+
+https://www.jianshu.com/p/4cfcf1610a73
+# 1. 基于情感词典的文本情感极性分析
+# 2. 基于机器学习的文本情感极性分析
+
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+~)c. 当前任务 h1. 工作 h2. 实体识别
+# 语法分析
+https://github.com/explosion/spaCy
+https://github.com/google/sling
+https://github.com/hankcs/MainPartExtractor
+
+# 对问题进行信息抽取
+https://stanfordnlp.github.io/CoreNLP/
+
+http://nlp.stanford.edu/nlp/javadoc/javanlp/overview-summary.html
+http://blog.csdn.net/cuixianpeng/article/details/16864785
+http://blog.csdn.net/tanzhangwen/article/details/8262049
+
+~)c. 当前任务 h1. 工作 h2. 对话系统
+# 语料生成
+https://zhuanlan.zhihu.com/p/27665853
+
+# 图灵问答
+http://www.tuling123.com/experience/exp_virtual_robot.jhtml?nav=exp
+# KB-QA
+https://zhuanlan.zhihu.com/p/25759682
+
+http://www.52nlp.cn/qa问答系统中的深度学习技术实现
+https://blog.csdn.net/huxuanlai/article/details/76853094
+https://github.com/warmheartli/ChatBotCourse
+https://github.com/carpedm20/variational-text-tensorflow
+# 比赛战胜人的 基于搜索web 语料
+https://github.com/ysc/QuestionAnsweringSystem
+
+# 从无到有构建一个电影知识图谱，并基于该KG，开发一个简易的KBQA程序
+https://blog.csdn.net/u011801161/article/details/79185482
+https://github.com/SimmerChan/KG-demo-for-movie
+
+# 主流方法可以分为三类
+1. 语义解析（Semantic Parsing）
+语义解析树的根节点则是最终的语义解析结果，通过查询语句直接在知识库中查询最终答案。
+https://link.zhihu.com/?target=http%3A//lemurproject.org/clueweb12/
+2. 信息抽取（Information Extraction）
+每一个节点或边都可以作为候选答案，通过观察问题规则或模板进行信息抽取，得到问题特征向量，建立分类器通过输入问题特征向量对候选答案进行筛选
+3. 向量建模（Vector Modeling）
+把问题和候选答案都映射为分布式表达（Distributed Embedding）
+
+
+~)c. 当前任务 h1. 工作 h2. 推理
+# 人工智能项目集合
+http://www.shuang0420.com/2018/03/05/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0%20-%20%E5%9F%BA%E4%BA%8E%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E6%8E%A8%E7%90%86/
+# 未看
+https://github.com/tobegit3hub/tensorflow_template_application
+aaa0ed7
+# 贝叶斯推理
+https://github.com/eBay/bayesian-belief-networks
+# 逆变量自回归推理
+https://github.com/openai/iaf
+#
+https://github.com/Smerity/keras_snli
+
+~)c. 当前任务 h1. 工作 h2. 隶属分层
+https://github.com/ematvey/hierarchical-attention-networks
+https://github.com/lipiji/hierarchical-encoder-decoder
+
+
+~)c. 当前任务 h1. 工作 h2. 关系网络
+https://github.com/siddk/relation-network
+https://github.com/thunlp/TensorFlow-NRE
+https://github.com/yueyoum/renren-relationship
+https://github.com/crownpku/Information-Extraction-Chinese
+https://github.com/crownpku/Information-Extraction-Chinese/tree/master/NER_IDCNN_CRF
+https://github.com/StanfordVL/ReferringRelationships
+
+~)c. 当前任务 h1. 工作 h2. 知识库
+git clone https://github.com/qq547276542/Agriculture_KnowledgeGraph.git
+
+http://baijiahao.baidu.com/s?id=1590841371247546305&wfr=spider&for=pc
+
+# 知识库 两大关键技术
+1. 实体链指(Entity linking)
+1.1 实体识别 (Entity Recognition)
+1.2 实体消歧 (Entity Disambiguation)
+2. 关系抽取 (Relation extraction)
+
+# 知识库存储
+https://github.com/ayoungprogrammer/nlquery
+
+# 公开数据集的下载地址
+# 网页问答
+https://github.com/percyliang/sempre
+# 维基问答
+http://knowitall.cs.washington.edu/paralex/
+# free base
+https://github.com/percyliang/sempre
+
+~)c. 当前任务 h1. 工作 h2. 同义语句判断
+https://github.com/kimhc6028/relational-networks
+https://github.com/gitlimlab/Relation-Network-Tensorflow
+
+# 百度familia框架
+https://github.com/baidu/familia
+
+https://www.jianshu.com/p/653f7b33e63c
+https://github.com/medcl/elasticsearch-analysis-pinyin
+https://yq.aliyun.com/articles/46824
